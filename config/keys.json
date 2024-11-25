@@ -1,0 +1,9 @@
+{
+  "email_sender": "sender_email@example.com",
+  "pwd_app": "abcd efgh ijkl nmop",
+  "smpt": "smtp.example.com",
+  "bot_token_tg": "123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11",
+  "sms_sender": "+12223334455",
+  "sid": "1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ01",
+  "sid_auth": "abcdefghijklmnñopkrstuvwxyz12345"
+}
